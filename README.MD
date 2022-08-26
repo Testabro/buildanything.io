@@ -1,6 +1,6 @@
-### BuildAnything.io
+# BuildAnything.io
 
-#### Build Setup
-##### Ubuntu 20
- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
- sudo apt-get install -y nodejs
+# Build Setup
+## Ubuntu 20
+- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+- sudo apt-get install -y nodejs
