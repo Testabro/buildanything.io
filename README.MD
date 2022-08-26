@@ -2,5 +2,4 @@
 
 # Build Setup
 ## Ubuntu 20
-- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-- sudo apt-get install -y nodejs
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
